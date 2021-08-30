@@ -1,0 +1,1680 @@
+name: University of Saskatchewan (Edwards)
+link: https://www.mba.today/school/university-of-saskatchewan
+
+name: Wilfrid Laurier University - Lazaridis School of Business and Economics
+link: https://www.mba.today/school/wilfrid-laurier-university
+
+name: University of Victoria (Gustavson)
+link: https://www.mba.today/school/university-of-victoria-gustavson-school-of-business
+
+name: University of Lethbridge - Dhillon School of Business
+link: https://www.mba.today/school/university-of-lethbridge
+
+name: University of Toronto (Rotman)
+link: https://www.mba.today/school/university-of-toronto-rotman-school-of-management
+
+name: University of British Columbia (Sauder)
+link: https://www.mba.today/school/university-of-british-columbia-sauder-school-of-business
+
+name: Ryerson University (Rodgers)
+link: https://www.mba.today/school/ryerson-university-rogers-school-of-management
+
+name: University of Calgary (Hasykayne)
+link: https://www.mba.today/school/university-of-calgary-haskayne-school-of-business
+
+name: Queen's University - Smith School of Business
+link: https://www.mba.today/school/queen-s-university-school-of-business
+
+name: HEC Montreal
+link: https://www.mba.today/school/hec-montreal
+
+name: Lakehead University - Faculty of Graduate Studies
+link: https://www.mba.today/school/
+
+name: McMaster University (DeGroote)
+link: https://www.mba.today/school/mcmaster-university-degroote-school-of-business
+
+name: University of Ottawa (Telfer)
+link: https://www.mba.today/school/university-of-ottawa-telfer-school-of-management
+
+name: University of Windsor - Odette School of Business
+link: https://www.mba.today/school/university-of-windsor
+
+name: Carleton University (Sprott)
+link: https://www.mba.today/school/carleton-university-sprott-school-of-business
+
+name: University of Guelph (Lang)
+link: https://www.mba.today/school/university-of-guelph-lang-school-of-business-and-economics
+
+name: Brock University (Goodman)
+link: https://www.mba.today/school/brock-university-goodman-school-of-business
+
+name: Saint Mary's University (Sobey)
+link: https://www.mba.today/school/saint-mary-s-university-sobey-school-of-business
+
+name: University of Alberta - School of Business
+link: https://www.mba.today/school/university-of-alberta-school-of-business
+
+name: Dalhousie University (Rowe)
+link: https://www.mba.today/school/dalhousie-university-rowe-school-of-business
+
+name: Université Laval - Faculté des sciences de l'administration
+link: https://www.mba.today/school/universite-laval
+
+name: Memorial University
+link: https://www.mba.today/school/memorial-university-of-newfoundland
+
+name: Simon Fraser University (Beedie)
+link: https://www.mba.today/school/simon-fraser-university-beedie-school-of-business
+
+name: Concordia University (Molson)
+link: https://www.mba.today/school/concordia-university-molson-school-of-business
+
+name: University of Manitoba (Asper)
+link: https://www.mba.today/school/university-of-manitoba-asper-school-of-business
+
+name: Alabama A&M University - College of Business and Public Affairs
+link: https://www.mba.today/school/alabama-a-and-m-university
+
+name: University of Alabama at Tuscaloosa (Culverhouse)
+link: https://www.mba.today/school/university-of-alabama-at-tuscaloosa-culverhouse-college-of-business
+
+name: University of South Alabama (Mitchell)
+link: https://www.mba.today/school/university-of-south-alabama-mitchell-college-of-business
+
+name: University of Montevallo (Stephens)
+link: https://www.mba.today/school/university-of-montevallo-stephens-college-of-business
+
+name: University of Alabama in Huntsville - College of Business Administration
+link: https://www.mba.today/school/university-of-alabama-in-huntsville
+
+name: University of Alabama at Birmingham (Collat)
+link: https://www.mba.today/school/university-of-alabama-at-birmingham
+
+name: Troy University (Sorrell)
+link: https://www.mba.today/school/troy-university-sorrell-college-of-business
+
+name: Tuskegee University (Brimmer)
+link: https://www.mba.today/school/tuskegee-university-brimmer-college
+
+name: Samford University (Brock)
+link: https://www.mba.today/school/samford-university-brock
+
+name: Jacksonville State University - School of Business & Industry
+link: https://www.mba.today/school/jacksonville-state-university
+
+name: University of North Alabama - College of Business
+link: https://www.mba.today/school/university-of-north-alabama
+
+name: Auburn University Montgomery - College of Business
+link: https://www.mba.today/school/auburn-university-montgomery
+
+name: Auburn University (Harbert)
+link: https://www.mba.today/school/auburn-university
+
+name: University of Alaska Fairbanks - School of Management
+link: https://www.mba.today/school/university-of-alaska-fairbanks
+
+name: University of Alaska Anchorage - College of Business and Public Policy
+link: https://www.mba.today/school/university-of-alaska-anchorage
+
+name: University of Arizona (Eller)
+link: https://www.mba.today/school/university-of-arizona-eller-college-of-management
+
+name: Arizona State University (Thunderbird)
+link: https://www.mba.today/school/thunderbird-school-of-global-management
+
+name: Northern Arizona University (W. A. Franke)
+link: https://www.mba.today/school/northern-arizona-university-w-a-franke-college-of-business
+
+name: Arizona State University (W. P. Carey)
+link: https://www.mba.today/school/arizona-state-university-w-p-carey-school-of-business
+
+name: University of Central Arkansas - College of Business Administration
+link: https://www.mba.today/school/university-of-central-arkansas
+
+name: University of Arkansas at Little Rock - College of Business
+link: https://www.mba.today/school/university-of-arkansas-at-little-rock
+
+name: University of Arkansas (Walton)
+link: https://www.mba.today/school/university-of-arkansas-walton-college-of-business
+
+name: Southern Arkansas University (Rankin)
+link: https://www.mba.today/school/southern-arkansas-university
+
+name: University of Arkansas-Fort Smith - College of Business
+link: https://www.mba.today/school/university-of-arkansas-fort-smith
+
+name: Henderson State University - School of Business
+link: https://www.mba.today/school/henderson-state-university
+
+name: Arkansas State University (Griffin)
+link: https://www.mba.today/school/arkansas-state-university
+
+name: Arkansas Tech University - College of Business
+link: https://www.mba.today/school/arkansas-tech-university
+
+name: Ouachita Baptist University (Hickingbotham)
+link: https://www.mba.today/school/ouachita-baptist-university-hickingbotham-school-of-business
+
+name: Cal Poly San Luis Obispo (Orfalea)
+link: https://www.mba.today/school/california-polytechnic-state-university-san-luis-obispo-orfalea-college-of-business
+
+name: University of the Pacific - Eberhardt School of Business
+link: https://www.mba.today/school/eberhardt-school-of-business-university-of-the-pacific
+
+name: Stanford GSB
+link: https://www.mba.today/school/stanford-graduate-school-of-business
+
+name: CSU Long Beach
+link: https://www.mba.today/school/california-state-university-long-beach
+
+name: CSU Stanislaus
+link: https://www.mba.today/school/california-state-university-stanislaus
+
+name: USC (Marshall)
+link: https://www.mba.today/school/university-of-southern-california-marshall-school-of-business
+
+name: California State University, San Marcos - College of Business Administration
+link: https://www.mba.today/school/california-state-university-san-marcos
+
+name: Sonoma State University - School of Business and Economics
+link: https://www.mba.today/school/sonoma-state-university
+
+name: Seaver College - Pepperdine University
+link: https://www.mba.today/school/seaver-college-pepperdine-university
+
+name: CSU San Bernardino
+link: https://www.mba.today/school/california-state-university-san-bernardino
+
+name: University of San Francisco - School of Management
+link: https://www.mba.today/school/university-of-san-francisco
+
+name: Santa Clara University (Leavey)
+link: https://www.mba.today/school/santa-clara-university-leavey-school-of-business
+
+name: Sacramento State
+link: https://www.mba.today/school/california-state-university-sacramento
+
+name: University of San Diego - School of Business Administration
+link: https://www.mba.today/school/university-of-san-diego
+
+name: San Jose State University (Lucas)
+link: https://www.mba.today/school/san-jose-state-university-lucas-graduate-school-of-business
+
+name: CSU Northridge
+link: https://www.mba.today/school/california-state-university-northridge-nazarian-college-of-business-and-economics
+
+name: UC San Diego (Rady School)
+link: https://www.mba.today/school/rady-school-of-management-university-of-california-san-diego
+
+name: San Francisco State University - College of Business
+link: https://www.mba.today/school/san-francisco-state-university
+
+name: CSU Fullerton (Mihaylo)
+link: https://www.mba.today/school/california-state-university-fullerton-mihaylo-college-of-business
+
+name: UC Riverside (Anderson)
+link: https://www.mba.today/school/university-of-california-riverside-anderson-graduate-school-of-management
+
+name: Dominican University of California (Barowsky)
+link: https://www.mba.today/school/dominican-university-of-california-barowsky-school-of-business
+
+name: San Diego State University - Fowler College of Business Administration
+link: https://www.mba.today/school/san-diego-state-university
+
+name: CSU Fresno (Craig)
+link: https://www.mba.today/school/california-state-university-fresno-craig-school-of-business
+
+name: UCLA (Anderson)
+link: https://www.mba.today/school/anderson-school-of-management-ucla
+
+name: Woodbury University - School of Business
+link: https://www.mba.today/school/woodbury-university
+
+name: Pepperdine University (Graziadio)
+link: https://www.mba.today/school/pepperdine-university-graziadio-school-of-business
+
+name: California State University, Dominguez Hills - College of Business Administration and Public Policy
+link: https://www.mba.today/school/california-state-university-dominguez-hills
+
+name: CSU East Bay
+link: https://www.mba.today/school/california-state-university-east-bay
+
+name: UC Irvine (Merage)
+link: https://www.mba.today/school/university-of-california-irvine-paul-merage-school-of-business
+
+name: Naval Postgraduate School - Graduate School of Business and Public Policy
+link: https://www.mba.today/school/naval-postgraduate-school
+
+name: CSU Chico
+link: https://www.mba.today/school/california-state-university-chico
+
+name: UC Davis
+link: https://www.mba.today/school/university-of-california-davis
+
+name: Saint Mary's College of California - School of Economics and Business Administration
+link: https://www.mba.today/school/saint-mary-s-college-of-california
+
+name: Loyola Marymount University - College of Business Administration
+link: https://www.mba.today/school/loyola-marymount-university
+
+name: CSU Bakersfield
+link: https://www.mba.today/school/california-state-university-bakersfield
+
+name: UC Berkeley (Haas)
+link: https://www.mba.today/school/haas-school-of-business-university-of-california-berkeley
+
+name: Claremont Graduate University (Peter F. Drucker and Masatoshi Ito)
+link: https://www.mba.today/school/claremont-graduate-university-peter-f-drucker-and-masatoshi-ito-graduate-school-of-management
+
+name: Cal Poly Pomona
+link: https://www.mba.today/school/california-state-polytechnic-university-pomona
+
+name: Menlo College
+link: https://www.mba.today/school/menlo-college
+
+name: Cal State Los Angeles
+link: https://www.mba.today/school/california-state-university-los-angeles
+
+name: Chapman University (Argyros)
+link: https://www.mba.today/school/chapman-university-argyros-school-of-business
+
+name: USAFA 
+link: https://www.mba.today/school/united-states-air-force-academy
+
+name: University of Denver (Daniels)
+link: https://www.mba.today/school/university-of-denver-daniels-college-of-business
+
+name: University of Colorado Denver - CU Denver Business School
+link: https://www.mba.today/school/university-of-colorado-denver
+
+name: Fort Lewis College - School of Business Administration
+link: https://www.mba.today/school/fort-lewis-college
+
+name: University of Colorado at Colorado Springs - College of Business and Administration
+link: https://www.mba.today/school/university-of-colorado-at-colorado-springs
+
+name: University of Colorado Boulder (Leeds)
+link: https://www.mba.today/school/university-of-colorado-boulder-leeds-school-of-business
+
+name: Colorado State University-Pueblo (Hasan)
+link: https://www.mba.today/school/colorado-state-university-pueblo-hasan-school-of-business
+
+name: University of Northern Colorado (Montfort)
+link: https://www.mba.today/school/university-of-northern-colorado-monfort-college-of-business
+
+name: Metropolitan State University of Denver - College of Business
+link: https://www.mba.today/school/metropolitan-state-university-of-denver
+
+name: Colorado State University - College of Business
+link: https://www.mba.today/school/colorado-state-university
+
+name: University of Connecticut - School of Business
+link: https://www.mba.today/school/university-of-connecticut
+
+name: Sacred Heart University (John F. Welch)
+link: https://www.mba.today/school/sacred-heart-university-john-f-welch-college-of-business
+
+name: Central Connecticut State University - School of Business
+link: https://www.mba.today/school/central-connecticut-state-university
+
+name: Quinnipiac University - School of Business
+link: https://www.mba.today/school/quinnipiac-university
+
+name: United States Coast Guard Academy
+link: https://www.mba.today/school/united-states-coast-guard-academy
+
+name: Fairfield University (Dolan)
+link: https://www.mba.today/school/fairfield-university-dolan-school-of-business
+
+name: Western Connecticut State University (Ancell)
+link: https://www.mba.today/school/western-connecticut-state-university
+
+name: University of New Haven - College of Business
+link: https://www.mba.today/school/university-of-new-haven
+
+name: Yale SOM
+link: https://www.mba.today/school/yale-school-of-management
+
+name: University of Hartford (Barney)
+link: https://www.mba.today/school/university-of-hartford-barney-school-of-business
+
+name: University of Delaware (Alfred Lerner)
+link: https://www.mba.today/school/university-of-delaware-alfred-lerner-college-of-business-and-economics
+
+name: Delaware State University - College of Business
+link: https://www.mba.today/school/delaware-state-university
+
+name: Howard University - School of Business
+link: https://www.mba.today/school/howard-university
+
+name: Georgetown University (McDonough)
+link: https://www.mba.today/school/georgetown-university-mcdonough-school-of-business
+
+name: George Washington University
+link: https://www.mba.today/school/george-washington-university
+
+name: American University - Kogod School of Business
+link: https://www.mba.today/school/american-university-kogod-school-of-business
+
+name: University of Tampa (Sykes)
+link: https://www.mba.today/school/university-of-tampa-sykes-college-of-business
+
+name: Florida Gulf Coast University (Lutgert)
+link: https://www.mba.today/school/florida-gulf-coast-university-lutgert-college-of-business
+
+name: University of South Florida (Muma)
+link: https://www.mba.today/school/university-of-south-florida
+
+name: Florida Atlantic University - College of Business
+link: https://www.mba.today/school/florida-atlantic-university
+
+name: University of North Florida (Coggin)
+link: https://www.mba.today/school/university-of-north-florida-coggin-college-of-business
+
+name: Barry University (Andreas)
+link: https://www.mba.today/school/barry-university-andreas-school-of-business
+
+name: University of Miami (Herbert)
+link: https://www.mba.today/school/university-of-miami
+
+name: University of Florida (Hough)
+link: https://www.mba.today/school/university-of-florida-warrington-college-of-business
+
+name: University of Central Florida - College of Business Administration
+link: https://www.mba.today/school/university-of-central-florida
+
+name: Stetson University - School of Business Administration
+link: https://www.mba.today/school/stetson-university
+
+name: Florida International University (Chapman)
+link: https://www.mba.today/school/florida-international-university
+
+name: Rollins College - College of Liberal Arts
+link: https://www.mba.today/school/rollins-college-college-of-arts-and-sciences-and-college-of-professional-studies
+
+name: Rollins College (Crummer)
+link: https://www.mba.today/school/rollins-college-crummer-graduate-school-of-business
+
+name: Jacksonville University (Davis)
+link: https://www.mba.today/school/jacksonville-university-davis-college-of-business
+
+name: Florida State University - College of Business
+link: https://www.mba.today/school/florida-state-university
+
+name: University of West Florida - College of Business
+link: https://www.mba.today/school/university-of-west-florida
+
+name: Florida Southern College - School of Business and Economics
+link: https://www.mba.today/school/florida-southern-college
+
+name: Georgia State University - Robinson College of Business
+link: https://www.mba.today/school/georgia-state-university
+
+name: Georgia Southwestern State University - School of Business Administration
+link: https://www.mba.today/school/georgia-southwestern-state-university
+
+name: Georgia Southern University - Parker College of Business
+link: https://www.mba.today/school/georgia-southern-university
+
+name: Georgia Tech (Scheller)
+link: https://www.mba.today/school/georgia-institute-of-technology-scheller-college-of-business
+
+name: Morehouse College - Division of Business Administration and Economics
+link: https://www.mba.today/school/morehouse-college
+
+name: Mercer University (Stetson)
+link: https://www.mba.today/school/mercer-university-stetson-school-of-business-and-economics
+
+name: Augusta University - Hull College of Business
+link: https://www.mba.today/school/augusta-university
+
+name: Georgia College & State University - Bunting College of Business
+link: https://www.mba.today/school/georgia-college-and-state-university
+
+name: Valdosta State University (Langdale)
+link: https://www.mba.today/school/valdosta-state-university-langdale-college-of-business-administration
+
+name: Emory (Goizueta)
+link: https://www.mba.today/school/emory-university-goizueta-business-school
+
+name: University of West Georgia (Richards)
+link: https://www.mba.today/school/university-of-west-georgia-richards-college-of-business
+
+name: Georgia Gwinnett College - School of Business
+link: https://www.mba.today/school/georgia-gwinnet-college
+
+name: Columbus State University (Turner)
+link: https://www.mba.today/school/columbus-state-university-turner-college-of-business
+
+name: Clark Atlanta University - School of Business
+link: https://www.mba.today/school/clark-atlanta-university
+
+name: Dalton State College (Wright)
+link: https://www.mba.today/school/dalton-state-college
+
+name: University of Georgia (Terry)
+link: https://www.mba.today/school/university-of-georgia-terry-college-of-business
+
+name: University of North Georgia (Cottrell)
+link: https://www.mba.today/school/university-of-north-georgia-cottrell-college-of-business
+
+name: Berry College (Campbell)
+link: https://www.mba.today/school/berry-college-campbell-school-of-business
+
+name: Savannah State University - College of Business Administration
+link: https://www.mba.today/school/savannah-state-university
+
+name: Clayton State University - School of Business
+link: https://www.mba.today/school/clayton-state-university
+
+name: Kennesaw State University (Coles)
+link: https://www.mba.today/school/kennesaw-state-university-coles-college-of-business
+
+name: University of Hawaii at Hilo - College of Business and Economics
+link: https://www.mba.today/school/university-of-hawaii-at-hilo
+
+name: University of Hawaii at Manoa - Shidler College of Business
+link: https://www.mba.today/school/university-of-hawaii-at-manoa-shidler-college-of-business
+
+name: University of Idaho - College of Business and Economics
+link: https://www.mba.today/school/university-of-idaho
+
+name: Idaho State University - College of Business
+link: https://www.mba.today/school/idaho-state-university
+
+name: Boise State University - College of Business and Economics
+link: https://www.mba.today/school/boise-state-university
+
+name: Northwestern (Kellogg)
+link: https://www.mba.today/school/kellogg-school-of-management-northwestern-university
+
+name: Western Illinois University - School of Graduate Studies
+link: https://www.mba.today/school/western-illinois-university
+
+name: Bradley University (Foster)
+link: https://www.mba.today/school/bradley-university-foster-college-of-business
+
+name: Dominican University (Brennan)
+link: https://www.mba.today/school/dominican-university-brennan-school-of-business
+
+name: Chicago Booth
+link: https://www.mba.today/school/university-of-chicago-booth
+
+name: Northeastern Illinois University - College of Business and Management
+link: https://www.mba.today/school/northeastern-illinois-university
+
+name: University of Illinois at Urbana-Champaign - Gies College of Business
+link: https://www.mba.today/school/university-of-illinois-at-urbana-champaign
+
+name: University of Illinois at Springfield - College of Business and Management
+link: https://www.mba.today/school/university-of-illinois-at-springfield
+
+name: UIC (Liautaud)
+link: https://www.mba.today/school/university-of-illinois-at-chicago-liautaud-graduate-school-of-business
+
+name: SIU Edwardsville
+link: https://www.mba.today/school/southern-illinois-university-edwardsville
+
+name: SIU Carbondale
+link: https://www.mba.today/school/southern-illinois-university-carbondale
+
+name: Governors State University - College of Business and Public Administration
+link: https://www.mba.today/school/governors-state-university
+
+name: Northern Illinois University - College of Business
+link: https://www.mba.today/school/northern-illinois-university
+
+name: Loyola University Chicago (Quinlan)
+link: https://www.mba.today/school/loyola-university-chicago-quinlan-school-of-business
+
+name: Saint Xavier University (Graham)
+link: https://www.mba.today/school/saint-xavier-university-graham-school-of-management
+
+name: Illinois State University - College of Business
+link: https://www.mba.today/school/illinois-state-university
+
+name: Eastern Illinois University (Lumpkin)
+link: https://www.mba.today/school/eastern-illinois-university-lumpkin-college-of-business-and-applied-sciences
+
+name: Illinois Institute of Technology (Stuart)
+link: https://www.mba.today/school/illinois-institute-of-technology-stuart-school-of-business
+
+name: DePaul University (Driehaus - Kellstadt)
+link: https://www.mba.today/school/depaul-university-driehaus-college-of-business-kellstadt-graduate-school-of-business
+
+name: Universty of Notre Dame (Mendoza)
+link: https://www.mba.today/school/university-of-notre-dame-mendoza-college-of-business
+
+name: Purdue (Krannert)
+link: https://www.mba.today/school/purdue-university-krannert-school-of-management
+
+name: IUPUI/IU (Kelley)
+link: https://www.mba.today/school/indiana-university-bloomington-indianapolis-kelley-school-of-business
+
+name: University of Evansville (Schroeder)
+link: https://www.mba.today/school/university-of-evansville-schroeder-family-school-of-business-administration
+
+name: Purdue University, Fort Wayne (Doermer)
+link: https://www.mba.today/school/indiana-university-purdue-university-fort-wayne-doermer-school-of-business-and-management-sciences
+
+name: Indiana University Southeast - School of Business
+link: https://www.mba.today/school/indiana-university-southeast
+
+name: IU South Bend (Leighton)
+link: https://www.mba.today/school/indiana-university-south-bend-judd-leighton-school-of-business-and-economics
+
+name: Purdue University Northwest - College of Business
+link: https://www.mba.today/school/purdue-university-northwest
+
+name: Indiana University Northwest - School of Business and Economics
+link: https://www.mba.today/school/indiana-university-northwest
+
+name: Indiana University Kokomo - School of Business
+link: https://www.mba.today/school/indiana-university-kokomo
+
+name: Indiana State University (Scott)
+link: https://www.mba.today/school/indiana-state-university-scott-college-of-business
+
+name: Butler University - Lacy School of Business
+link: https://www.mba.today/school/butler-university
+
+name: Valparaiso University - College of Business
+link: https://www.mba.today/school/valparaiso-university
+
+name: Ball State University (Miller)
+link: https://www.mba.today/school/ball-state-university-miller-college-of-business
+
+name: University of Southern Indiana (Romain)
+link: https://www.mba.today/school/university-of-southern-indiana
+
+name: University of Northern Iowa - College of Business Administration
+link: https://www.mba.today/school/university-of-northern-iowa
+
+name: University of Iowa (Tippie)
+link: https://www.mba.today/school/university-of-iowa-tippie-college-of-business
+
+name: Iowa State University (Ivy)
+link: https://www.mba.today/school/iowa-state-university
+
+name: Drake University - College of Business and Public Administration
+link: https://www.mba.today/school/drake-university
+
+name: Wichita State University (Barton)
+link: https://www.mba.today/school/wichita-state-university-barton-school-of-business
+
+name: Washburn University - School of Business
+link: https://www.mba.today/school/washburn-university
+
+name: Kansas State University - College of Business Administration
+link: https://www.mba.today/school/kansas-state-university
+
+name: University of Kansas - School of Business
+link: https://www.mba.today/school/university-of-kansas
+
+name: Pittsburg State University (Kelce)
+link: https://www.mba.today/school/pittsburg-state-university-kelce-college-of-business
+
+name: Emporia State University - School of Business
+link: https://www.mba.today/school/emporia-state-university
+
+name: Western Kentucky university (Gordon Ford)
+link: https://www.mba.today/school/western-kentucky-university-gordon-ford-college-of-business
+
+name: University of Louisville - College of Business
+link: https://www.mba.today/school/university-of-louisville
+
+name: University of Kentucky (Gatton)
+link: https://www.mba.today/school/university-of-kentucky-gatton-college-of-business-and-economics
+
+name: Northern Kentucky University (Haile/US)
+link: https://www.mba.today/school/northern-kentucky-university-haile-us-bank-college-of-business
+
+name: Murray State University (Bauernfeind)
+link: https://www.mba.today/school/murray-state-university-bauernfeind-college-of-business
+
+name: Morehead State University - College of Business and Public Affairs
+link: https://www.mba.today/school/morehead-state-university
+
+name: Eastern Kentucky University - College of Business and Technology
+link: https://www.mba.today/school/eastern-kentucky-university
+
+name: Bellarmine University (Rubel)
+link: https://www.mba.today/school/bellarmine-university-rubel-school-of-business
+
+name: Louisiana Tech University - College of Business
+link: https://www.mba.today/school/louisiana-tech-university
+
+name: Northwestern State University of Louisiana - School of Business
+link: https://www.mba.today/school/northwestern-state-university-of-louisiana
+
+name: Louisiana State University in Shreveport - College of Business, Education and Human Development
+link: https://www.mba.today/school/louisiana-state-university-in-shreveport
+
+name: University of New Orleans - College of Business Administration
+link: https://www.mba.today/school/university-of-new-orleans
+
+name: Louisiana State University (Ourso)
+link: https://www.mba.today/school/louisiana-state-university-ourso-college-of-business
+
+name: University of Louisiana at Monroe - College of Business and Social Sciences
+link: https://www.mba.today/school/university-of-louisiana-at-monroe
+
+name: UL Lafayette (BI Moody III)
+link: https://www.mba.today/school/university-of-louisiana-at-lafayette-bi-moody-iii-college-of-business-administration
+
+name: Grambling State University - College of Business
+link: https://www.mba.today/school/grambling-state-university
+
+name: Southern University at New Orleans - College of Business and Public Administration
+link: https://www.mba.today/school/southern-university-at-new-orleans
+
+name: Tulane University (Freeman)
+link: https://www.mba.today/school/tulane-university-freeman-school-of-business
+
+name: Southern University and A&M College - College of Business
+link: https://www.mba.today/school/southern-university-and-a-and-m-college
+
+name: Southeastern Louisiana University - College of Business
+link: https://www.mba.today/school/southeastern-louisiana-university
+
+name: Nicholls State University - College of Business Administration
+link: https://www.mba.today/school/nicholls-state-university
+
+name: McNeese State University - College of Business
+link: https://www.mba.today/school/mcneese-state-university
+
+name: Loyola University New Orleans - College of Business
+link: https://www.mba.today/school/loyola-university-new-orleans
+
+name: University of Maine - Maine Business School
+link: https://www.mba.today/school/university-of-maine-maine-business-school
+
+name: University of Southern Maine - College of Management and Human Service - School of Business
+link: https://www.mba.today/school/university-of-southern-maine
+
+name: University of Maryland Eastern Shore - School of Business and Technology
+link: https://www.mba.today/school/university-of-maryland-eastern-shore
+
+name: University of Baltimore - Merrick School of Business
+link: https://www.mba.today/school/university-of-baltimore-merrick-school-of-business
+
+name: Johns Hopkins University (Carey)
+link: https://www.mba.today/school/johns-hopkins-university-carey-business-school
+
+name: University of Maryland (Robert H. Smith)
+link: https://www.mba.today/school/university-of-maryland-robert-h-smith-school-of-business
+
+name: Salisbury University (Perdue)
+link: https://www.mba.today/school/salisbury-university-perdue-school-of-business
+
+name: Morgan State University (Graves)
+link: https://www.mba.today/school/morgan-state-university-graves-school-of-business-and-management
+
+name: Loyola University Maryland (Sellinger)
+link: https://www.mba.today/school/loyola-university-maryland-sellinger-school-of-business
+
+name: Towson University - College of Business and Economics
+link: https://www.mba.today/school/towson-university
+
+name: Frostburg State University - College of Business
+link: https://www.mba.today/school/frostburg-state-university
+
+name: Worcester Polytechnic Institute (Foisie)
+link: https://www.mba.today/school/worcester-polytechnic-institute
+
+name: Clark University - Graduate School of Management
+link: https://www.mba.today/school/clark-university
+
+name: Stonehill College (Meehan)
+link: https://www.mba.today/school/
+
+name: Western New England University - College of Business
+link: https://www.mba.today/school/western-new-england-university
+
+name: Boston University (Questrom)
+link: https://www.mba.today/school/boston-university
+
+name: Umass Lowell (Manning)
+link: https://www.mba.today/school/university-of-massachusetts-lowell-manning-school-of-business
+
+name: Salem State University - Bertolon School of Business
+link: https://www.mba.today/school/salem-state-university
+
+name: Boston College (Carroll)
+link: https://www.mba.today/school/boston-college-carroll-school-of-management
+
+name: University of Massachussetts Amherst (Charlton)
+link: https://www.mba.today/school/university-of-massachusetts-dartmouth-charlton-college-of-business
+
+name: Bentley University - McCallum Graduate School of Business
+link: https://www.mba.today/school/bentley-university
+
+name: University of Massachusetts Boston - College of Management
+link: https://www.mba.today/school/university-of-massachusetts-boston
+
+name: Babson College (Olin)
+link: https://www.mba.today/school/babson-college-olin-graduate-school
+
+name: University of Massachussetts Amherst (Isenberg)
+link: https://www.mba.today/school/university-of-massachusetts-amherst-isenberg-school-of-management
+
+name: Suffolk University (Sawyer)
+link: https://www.mba.today/school/suffolk-university-sawyer-business-school
+
+name: Simmons University - School of Management
+link: https://www.mba.today/school/simmons-college
+
+name: Brandeis University (International Business School)
+link: https://www.mba.today/school/brandeis-university-international-business-school
+
+name: Northeastern University (D'Amore-McKim)
+link: https://www.mba.today/school/northeastern-university-d-amore-mckim-school-of-business
+
+name: MIT Sloan
+link: https://www.mba.today/school/mit-sloan-school-of-management
+
+name: Harvard Business School
+link: https://www.mba.today/school/harvard-business-school
+
+name: Hult International Business School
+link: https://www.mba.today/school/hult-international-business-school
+
+name: Michigan (Ross)
+link: https://www.mba.today/school/university-of-michigan-ann-arbor-ross-school-of-business
+
+name: University of Detroit Mercy - College of Business Administration
+link: https://www.mba.today/school/university-of-detroit-mercy
+
+name: Saginaw Valley State University (Carmona)
+link: https://www.mba.today/school/saginaw-valley-state-university
+
+name: Oakland University - School of Business Administration
+link: https://www.mba.today/school/oakland-university
+
+name: Northern Michigan University - College of Business
+link: https://www.mba.today/school/northern-michigan-university
+
+name: Lawrence Technological University - College of Business and Information Technology
+link: https://www.mba.today/school/lawrence-technological-university
+
+name: Michigan Tech
+link: https://www.mba.today/school/michigan-technological-university
+
+name: Michigan State University (Broad)
+link: https://www.mba.today/school/michigan-state-university-broad-college-of-business
+
+name: Western Michigan (Haworth)
+link: https://www.mba.today/school/western-michigan-university-haworth-college-of-business
+
+name: Grand Valley State University (Seidman)
+link: https://www.mba.today/school/grand-valley-state-university
+
+name: Wayne State University (Ilitch)
+link: https://www.mba.today/school/wayne-state-university
+
+name: Eastern Michigan University - College of Business
+link: https://www.mba.today/school/eastern-michigan-university
+
+name: UM-Flint
+link: https://www.mba.today/school/university-of-michigan-flint
+
+name: Central Michigan University - College of Business Administration
+link: https://www.mba.today/school/central-michigan-university
+
+name: UM-Dearborn
+link: https://www.mba.today/school/university-of-michigan-dearborn
+
+name: University of St. Thomas (Opus)
+link: https://www.mba.today/school/university-of-st-thomas-opus-college-of-business
+
+name: University of Minnesota (Carlson)
+link: https://www.mba.today/school/university-of-minnesota-carlson-school-of-management
+
+name: University of Minnesota Duluth (Labovitz)
+link: https://www.mba.today/school/university-of-minnesota-duluth-labovitz-school-of-business-and-economics
+
+name: St. Cloud State University (Herberger)
+link: https://www.mba.today/school/st-cloud-state-university-herberger-college-of-business
+
+name: Minnesota State University, Mankato - College of Business
+link: https://www.mba.today/school/minnesota-state-university-mankato
+
+name: Minnesota State University Moorhead (Paseka)
+link: https://www.mba.today/school/minnesota-state-university-moorhead-paseka-school-of-business
+
+name: Winona State University - College of Business
+link: https://www.mba.today/school/winona-state-university
+
+name: Millsaps College (Else)
+link: https://www.mba.today/school/millsaps-college-else-school-of-management
+
+name: Jackson State University - College of Business
+link: https://www.mba.today/school/jackson-state-university
+
+name: University of Southern Mississippi - College of Business
+link: https://www.mba.today/school/university-of-southern-mississippi
+
+name: Mississippi College - School of Business
+link: https://www.mba.today/school/mississippi-college
+
+name: The University of Mississippi - School of Business Administration
+link: https://www.mba.today/school/university-of-mississippi
+
+name: Mississippi State University - College of Business
+link: https://www.mba.today/school/mississippi-state-university
+
+name: University of Missouri (Truslake)
+link: https://www.mba.today/school/university-of-missouri-truslaske-college-of-business
+
+name: University of Central Missouri (Harmon)
+link: https://www.mba.today/school/university-of-central-missouri-harmon-college-of-business-and-professional-studies
+
+name: Southeast Missouri State University (Harrison)
+link: https://www.mba.today/school/southeast-missouri-state-university-harrison-college-of-business
+
+name: Saint Louis University (Chaifetz)
+link: https://www.mba.today/school/saint-louis-university-chaifetz-school-of-business
+
+name: Rockhurst University (Helzberg)
+link: https://www.mba.today/school/rockhurst-university-helzberg-school-of-management
+
+name: Missouri S&T
+link: https://www.mba.today/school/missouri-university-of-science-and-technology
+
+name: Washington University in St. Louis (Olin)
+link: https://www.mba.today/school/washington-university-in-st-louis-olin-business-school
+
+name: Missouri State University - College of Business Administration
+link: https://www.mba.today/school/missouri-state-university
+
+name: Drury University (Breech)
+link: https://www.mba.today/school/drury-university-breech-school-of-business
+
+name: Missouri Western State University (Craig)
+link: https://www.mba.today/school/missouri-western-state-university-craig-school-of-business
+
+name: Truman State University - School of Business
+link: https://www.mba.today/school/truman-state-university
+
+name: University of Missouri-Kansas City (Bloch)
+link: https://www.mba.today/school/university-of-missouri-kansas-city-block-school-of-business
+
+name: University of Missouri-St. Louis - College of Business Administration
+link: https://www.mba.today/school/university-of-missouri-st-louis
+
+name: Montana State University-Billings - College of Business
+link: https://www.mba.today/school/montana-state-university-billings
+
+name: Montana State University (Jabs)
+link: https://www.mba.today/school/montana-state-university-jake-jabs-college-of-business-and-entrepreneurship
+
+name: The University of Montana - School of Business Administration
+link: https://www.mba.today/school/university-of-montana
+
+name: Creighton University (Heider)
+link: https://www.mba.today/school/creighton-university-heider-college-of-business
+
+name: University of Nebraska-Lincoln - College of Business Administration
+link: https://www.mba.today/school/university-of-nebraska-lincoln
+
+name: University of Nebraska at Omaha - College of Business Administration
+link: https://www.mba.today/school/university-of-nebraska-at-omaha
+
+name: University of Nebraska at Kearney - College of Business and Technology
+link: https://www.mba.today/school/university-of-nebraska-at-kearney
+
+name: University of Nevada, Reno - College of Business Administration
+link: https://www.mba.today/school/university-of-nevada-reno
+
+name: University of Nevada, Las Vegas (Lee)
+link: https://www.mba.today/school/university-of-nevada-las-vegas-lee-business-school
+
+name: University of New Hampshire (Paul)
+link: https://www.mba.today/school/university-of-new-hampshire-paul-college-of-business-and-economics
+
+name: Darmouth (Tuck)
+link: https://www.mba.today/school/dartmouth-college-tuck-school-of-business
+
+name: Ramapo College of New Jersey (Anisfield)
+link: https://www.mba.today/school/ramapo-college-of-new-jersey-anisfield-school-of-business
+
+name: New Jersey Institute of Technology (Tuchman)
+link: https://www.mba.today/school/new-jersey-institute-of-technology
+
+name: Montclair State University (Feliciano)
+link: https://www.mba.today/school/montclair-state-university
+
+name: Montmouth University (Leon Hess)
+link: https://www.mba.today/school/monmouth-university-leon-hess-business-school
+
+name: Fairleigh Dickinson University (Silberman)
+link: https://www.mba.today/school/fairleigh-dickinson-university-silberman-college-of-business
+
+name: Rider University (Brodsky)
+link: https://www.mba.today/school/rider-university
+
+name: Stevens Institute of Technology - School of Business
+link: https://www.mba.today/school/stevens-institute-of-technology
+
+name: Rutgers Business School
+link: https://www.mba.today/school/rutgers-the-state-university-of-new-jersey-newark-new-brunswick
+
+name: William Paterson University (Cotsakos)
+link: https://www.mba.today/school/william-paterson-university-cotsakos-college-of-business
+
+name: Seton Hall University (Stillman)
+link: https://www.mba.today/school/seton-hall-university-stillman-school-of-business
+
+name: Stockton University
+link: https://www.mba.today/school/stockton-university
+
+name: Rutgers School of Business - Camden
+link: https://www.mba.today/school/rutgers-the-state-university-of-new-jersey-camden
+
+name: The College of New Jersey - School of Business
+link: https://www.mba.today/school/the-college-of-new-jersey
+
+name: Rowan University (Rohrer)
+link: https://www.mba.today/school/rowan-university-rohrer-college-of-business
+
+name: University of New Mexico (Anderson)
+link: https://www.mba.today/school/university-of-new-mexico-anderson-school-of-management
+
+name: New Mexico State University - College of Business
+link: https://www.mba.today/school/new-mexico-state-university
+
+name: NYU (Stern)
+link: https://www.mba.today/school/new-york-university-stern-school-of-business
+
+name: Canisius College - Wehle School of Business
+link: https://www.mba.today/school/canisius-college-richard-j-whele-school-of-business
+
+name: Syracuse University (Whitman)
+link: https://www.mba.today/school/syracuse-university-whitman-school-of-management
+
+name: Marist College - School of Management
+link: https://www.mba.today/school/marist-college
+
+name: Binghamton University, SUNY
+link: https://www.mba.today/school/binghamton-university-suny
+
+name: SUNY Oswego
+link: https://www.mba.today/school/suny-oswego
+
+name: SUNY Polytechnic Institute
+link: https://www.mba.today/school/suny-polytechnic-institute
+
+name: Manhattan College - O'Malley School of Business
+link: https://www.mba.today/school/manhattan-college
+
+name: CUNY - Baruch College (Zicklin)
+link: https://www.mba.today/school/baruch-college-cuny-zicklin-school-of-business
+
+name: SUNY College at Oneonta
+link: https://www.mba.today/school/suny-oneonta
+
+name: State University of New York College at Plattsburgh - School of Business and Economics
+link: https://www.mba.today/school/suny-college-at-plattsburgh
+
+name: LIU Post
+link: https://www.mba.today/school/long-island-university-post-campus
+
+name: AU
+link: https://www.mba.today/school/alfred-university
+
+name: SUNY New Paltz
+link: https://www.mba.today/school/suny-new-paltz
+
+name: The College at Brockport, State University of New York - School of Business & Management
+link: https://www.mba.today/school/the-college-at-brockport-suny
+
+name: Le Moyne College - Madden School of Business
+link: https://www.mba.today/school/le-moyne-college-madden-school-of-business
+
+name: Adelphi University - Willumstad School of Business
+link: https://www.mba.today/school/adelphi-university-willumstad-school-of-business
+
+name: SUNY Geneseo
+link: https://www.mba.today/school/suny-geneseo
+
+name: Ithaca College - School of Business
+link: https://www.mba.today/school/ithaca-college
+
+name: St. John Fisher College - School of Business
+link: https://www.mba.today/school/st-john-fisher-college
+
+name: Siena College - School of Business
+link: https://www.mba.today/school/siena-college
+
+name: Iona College (LaPenta)
+link: https://www.mba.today/school/iona-college-lapenta-school-of-business
+
+name: St. Bonaventure University - School of Business
+link: https://www.mba.today/school/st-bonaventure-university
+
+name: Fordham University - Gabelli School of Business
+link: https://www.mba.today/school/fordham-university-graduate-school-of-business
+
+name: Hofstra University (Zarb)
+link: https://www.mba.today/school/hofstra-university-zarb-school-of-business
+
+name: Yeshiva University - Sy Syms School of Business
+link: https://www.mba.today/school/yeshiva-university-sy-syms-school-of-business
+
+name: Brooklyn College - The City University of New York (CUNY)
+link: https://www.mba.today/school/brooklyn-college-cuny
+
+name: Rochester Institute of Technology (Saunders)
+link: https://www.mba.today/school/rochester-institute-of-technology-saunders-college
+
+name: New York Institute of Technology - School of Management
+link: https://www.mba.today/school/new-york-institute-of-technology
+
+name: Pace University (Lubin)
+link: https://www.mba.today/school/pace-university-lubin-school-of-business
+
+name: Cornell (Johnson)
+link: https://www.mba.today/school/cornell-university-johnson-school-of-business
+
+name: University of Rochester (Simon)
+link: https://www.mba.today/school/university-of-rochester-simon-graduate-school-of-business
+
+name: SUNY Fredonia
+link: https://www.mba.today/school/suny-fredonia
+
+name: Rensselaer Polytechnic Institute (Lally)
+link: https://www.mba.today/school/rensselaer-polytechnic-institute-lally-school-of-management-and-technology
+
+name: Columbia Business School - Columbia University
+link: https://www.mba.today/school/columbia-business-school
+
+name: St. John's University (Tobin)
+link: https://www.mba.today/school/st-john-s-university-tobin-college-of-business
+
+name: University at Buffalo SUNY
+link: https://www.mba.today/school/university-at-buffalo-suny
+
+name: Niagara University - College of Business Administration
+link: https://www.mba.today/school/niagara-university
+
+name: Clarkson University - Reh School of Business
+link: https://www.mba.today/school/clarkson-university
+
+name: University at Albany SUNY
+link: https://www.mba.today/school/university-at-albany-suny
+
+name: North Carolina Central University - School of Business
+link: https://www.mba.today/school/north-carolina-central-university
+
+name: Wake Forest University - Schools of Business
+link: https://www.mba.today/school/wake-forest-university
+
+name: Meredith College - School of Business
+link: https://www.mba.today/school/meredith-college
+
+name: North Carolina A&T State University - College of Business and Economics
+link: https://www.mba.today/school/north-carolina-a-and-t-state-university
+
+name: Fayetteville State University - Broadwell College of Business and Economics
+link: https://www.mba.today/school/fayetteville-state-university
+
+name: Elon University (Martha and Spencer Love)
+link: https://www.mba.today/school/elon-university-martha-and-spencer-love-school-of-business
+
+name: UNC Wilmington (Cameron)
+link: https://www.mba.today/school/university-of-north-carolina-wilmington-cameron-school-of-business
+
+name: East Carolina University - College of Business
+link: https://www.mba.today/school/east-carolina-university
+
+name: UNC Pembroke
+link: https://www.mba.today/school/the-university-of-north-carolina-at-pembroke
+
+name: Duke (Fuqua)
+link: https://www.mba.today/school/duke-university-fuqua-school-of-business
+
+name: UNC Greensboro (Bryan)
+link: https://www.mba.today/school/the-university-of-north-carolina-at-greensboro-bryan-school-of-business
+
+name: Appalachian State University (Walker)
+link: https://www.mba.today/school/appalachian-state-university-walker-college-of-business
+
+name: UNC Charlotte (Belk)
+link: https://www.mba.today/school/the-university-of-north-carolina-at-charlotte-belk-college-of-business
+
+name: Elizabeth City State University - Davis School of Business and Economics
+link: https://www.mba.today/school/elizabeth-city-state-university-davis-school-of-business-and-economics
+
+name: UNC Kenan-Flager - The University of North Carolina at Chapel Hill - Kenan-Flagler Business School
+link: https://www.mba.today/school/unc-kenan-flager
+
+name: Queens University of Charlotte (McColl)
+link: https://www.mba.today/school/queens-university-of-charlotte-mccoll-school-of-business
+
+name: The University of North Carolina at Asheville - Department of Management and Accountancy
+link: https://www.mba.today/school/the-university-of-north-carolina-at-asheville
+
+name: NC State University (Poole)
+link: https://www.mba.today/school/north-carolina-state-university-poole-college-of-management
+
+name: Western Carolina University - College of Business
+link: https://www.mba.today/school/western-carolina-university
+
+name: University of North Dakota (Nistler)
+link: https://www.mba.today/school/the-university-of-north-dakota
+
+name: North Dakota State University - College of Business
+link: https://www.mba.today/school/north-dakota-state-university
+
+name: Case Western Reserve University (Weatherhead)
+link: https://www.mba.today/school/case-western-reserve-university-weatherhead-school-of-management
+
+name: University of Toledo - College of Business and Innovation
+link: https://www.mba.today/school/university-of-toledo
+
+name: Bowling Green State University - College of Business Administration
+link: https://www.mba.today/school/bowling-green-state-university
+
+name: University of Dayton - School of Business Administration
+link: https://www.mba.today/school/university-of-dayton
+
+name: University of Cincinnati (Lindner)
+link: https://www.mba.today/school/university-of-cincinnati-lindner-college-of-business
+
+name: The University of Akron - College of Business Administration
+link: https://www.mba.today/school/the-university-of-akron
+
+name: Ohio University - College of Business
+link: https://www.mba.today/school/ohio-university
+
+name: Ohio State University (Fisher)
+link: https://www.mba.today/school/ohio-state-university-fisher-college-of-business
+
+name: Miami University (Farmer)
+link: https://www.mba.today/school/miami-university-farmer-school-of-business
+
+name: Kent State University - College of Business Administration & Graduate School of Management
+link: https://www.mba.today/school/kent-state-university
+
+name: Youngstown State University (Williamson)
+link: https://www.mba.today/school/youngstown-state-university-williamson-college-of-business-administration
+
+name: John Carroll University (Boler)
+link: https://www.mba.today/school/john-carroll-university-boler-school-of-business
+
+name: Xavier University (Williams)
+link: https://www.mba.today/school/xavier-university-williams-college-of-business
+
+name: Cleveland State University (Ahuja)
+link: https://www.mba.today/school/cleveland-state-university-ahuja-college-of-business
+
+name: Ohio Northern University (Dicke)
+link: https://www.mba.today/school/ohio-northern-university
+
+name: Wright State University (Raj Soin)
+link: https://www.mba.today/school/wright-state-university-raj-soin-college-of-business
+
+name: University of Central Oklahoma - College of Business
+link: https://www.mba.today/school/university-of-central-oklahoma
+
+name: University of Tulsa (Collins)
+link: https://www.mba.today/school/university-of-tulsa-collins-college-of-business
+
+name: University of Oklahoma (Michael F. Price)
+link: https://www.mba.today/school/university-of-oklahoma-michael-price-college-of-business
+
+name: Southeastern Oklahoma State University (John Massey)
+link: https://www.mba.today/school/southeastern-oklahoma-state-university-john-massey-school-of-business
+
+name: Oklahoma State University (Spears)
+link: https://www.mba.today/school/oklahoma-state-university-spears-school-of-business
+
+name: Oklahoma City University (Meinders)
+link: https://www.mba.today/school/oklahoma-city-university-meinders-school-of-business
+
+name: University of Portland (Pamplin)
+link: https://www.mba.today/school/university-of-portland-pamplin-school-of-business-administration
+
+name: University of Oregon (Lundquist)
+link: https://www.mba.today/school/university-of-oregon-lundquist-college-of-business
+
+name: Portland State University - School of Business Administration
+link: https://www.mba.today/school/portland-state-university
+
+name: Oregon State University - College of Business
+link: https://www.mba.today/school/oregon-state-university
+
+name: Willamette University (Atkinson)
+link: https://www.mba.today/school/willamette-university
+
+name: Penn State Harrisburg
+link: https://www.mba.today/school/pennsylvania-state-university-at-harrisburg
+
+name: West Chester University - College of Business and Public Management
+link: https://www.mba.today/school/west-chester-university
+
+name: Penn State Behrend (Black)
+link: https://www.mba.today/school/penn-state-behrend-college-sam-and-irene-black-school-of-business
+
+name: King's College - McGowan School of Business
+link: https://www.mba.today/school/king-s-college-mcgowan-school-of-business
+
+name: Wharton School
+link: https://www.mba.today/school/wharton-school-university-of-pennsylvania
+
+name: Villanova University - School of Business
+link: https://www.mba.today/school/villanova-university
+
+name: Lehigh University - College of Business and Economics
+link: https://www.mba.today/school/lehigh-university
+
+name: University of Scranton (Kania)
+link: https://www.mba.today/school/university-of-scranton-kania-school-of-management
+
+name: La Salle University - School of Business
+link: https://www.mba.today/school/la-salle-university
+
+name: Slippery Rock University - School of Business
+link: https://www.mba.today/school/slippery-rock-university
+
+name: Kutztown University of Pennsylvania
+link: https://www.mba.today/school/kutztown-university
+
+name: University of Pittsburgh (Katz)
+link: https://www.mba.today/school/university-of-pittsburgh-katz-graduate-school-of-business
+
+name: Bucknell University - Freeman College of Management
+link: https://www.mba.today/school/bucknell-university-freeman-college-of-management
+
+name: Indiana University of Pennsylvania (Eberly)
+link: https://www.mba.today/school/indiana-university-of-pennsylvania-eberly-college-of-business
+
+name: Temple University (Fox)
+link: https://www.mba.today/school/temple-university-fox-school-of-business
+
+name: Duquesne University (Palumbo - Donahue)
+link: https://www.mba.today/school/duquesne-university-palumbo-donahue-school-of-business
+
+name: Shippensburg University (Grove)
+link: https://www.mba.today/school/shippensburg-university-grove-college-of-business
+
+name: Drexel University (LeBow)
+link: https://www.mba.today/school/drexel-university-lebow-college-of-business
+
+name: Saint Joseph's University (Haub)
+link: https://www.mba.today/school/saint-joseph-s-university-haub-school-of-business
+
+name: Clarion University of Pennsylvania - College of Business Administration & Information Sciences
+link: https://www.mba.today/school/clarion-university-of-pennsylvania
+
+name: Robert Morris University - School of Business
+link: https://www.mba.today/school/robert-morris-university
+
+name: Carnegie Mellon (Tepper)
+link: https://www.mba.today/school/carnegie-mellon-university-tepper-school-of-business
+
+name: Penn State (Smeal)
+link: https://www.mba.today/school/pennsylvania-state-university-smeal-college-of-business
+
+name: Bloomsburg University of Pennsylvania (Zeigler)
+link: https://www.mba.today/school/bloomsburg-university-of-pennsylvania
+
+name: Penn State Great Valley
+link: https://www.mba.today/school/pennsylvania-state-university-great-valley
+
+name: Susquehanna University - Sigmund Weis School of Business
+link: https://www.mba.today/school/susquehanna-university-sigmund-weis-school-of-business
+
+name: Widener University - School of Business Administration
+link: https://www.mba.today/school/widener-university
+
+name: University of Rhode Island - College of Business Administration
+link: https://www.mba.today/school/university-of-rhode-island
+
+name: Roger Williams University (Gabelli)
+link: https://www.mba.today/school/roger-williams-university-gabelli-school-of-business
+
+name: Providence College - School of Business
+link: https://www.mba.today/school/providence-college
+
+name: Bryant University - School of Business
+link: https://www.mba.today/school/bryant-university
+
+name: USC (Darla Moore)
+link: https://www.mba.today/school/university-of-south-carolina-darla-moore-school-of-business
+
+name: Lander University - College of Business
+link: https://www.mba.today/school/lander-university
+
+name: South Carolina State University - College of Business and Applied Professional Sciences
+link: https://www.mba.today/school/south-carolina-state-university
+
+name: University of South Carolina Aiken - School of Business Administration
+link: https://www.mba.today/school/university-of-south-carolina-aiken
+
+name: Francis Marion University - School of Business
+link: https://www.mba.today/school/francis-marion-university
+
+name: College of Charleston - School of Business
+link: https://www.mba.today/school/college-of-charleston
+
+name: Coastal Carolina University (Wall)
+link: https://www.mba.today/school/coastal-carolina-university-craig-wall-sr-college-of-business-administration
+
+name: Clemson University - College of Business and Behavioral Science
+link: https://www.mba.today/school/clemson-university
+
+name: The Citadel (Baker)
+link: https://www.mba.today/school/the-citadel-military-college-school-of-south-carolina
+
+name: University of South Carolina Upstate (Johnson)
+link: https://www.mba.today/school/university-of-south-carolina-upstate-george-dean-johnson-college-of-business-administration
+
+name: Winthrop University - College of Business Administration
+link: https://www.mba.today/school/winthrop-university
+
+name: Black Hills State University - College of Business and Natural Sciences - School of Business
+link: https://www.mba.today/school/black-hills-state-university
+
+name: University of South Dakota (Beacom)
+link: https://www.mba.today/school/university-of-south-dakota-beacom-school-of-business
+
+name: University of Tennessee at Martin - College of Business and Global Affairs
+link: https://www.mba.today/school/university-of-tennessee-at-martin
+
+name: UT Knoxville (Haslam)
+link: https://www.mba.today/school/university-of-tennessee-at-knoxville
+
+name: University of Tennessee at Chattanooga (Rollins)
+link: https://www.mba.today/school/university-of-tennessee-at-chattanooga
+
+name: Union University (McAfee)
+link: https://www.mba.today/school/union-university-mcafee-school-of-business
+
+name: The University of Memphis (Fogelman)
+link: https://www.mba.today/school/the-university-of-memphis-fogelman-college-of-business-and-economics
+
+name: Tennessee Technological University - College of Business
+link: https://www.mba.today/school/tennessee-technological-university
+
+name: Tennessee State University - College of Business
+link: https://www.mba.today/school/tennessee-state-university
+
+name: Middle Tennessee State University (Jones)
+link: https://www.mba.today/school/middle-tennessee-state-university-jones-college-of-business
+
+name: East Tennessee State University - College of Business and Technology
+link: https://www.mba.today/school/east-tennessee-state-university
+
+name: Belmont University (Massey)
+link: https://www.mba.today/school/belmont-university-massey-graduate-school-of-business
+
+name: Vanderbilt University (Owen)
+link: https://www.mba.today/school/vanderbilt-university-owen-graduate-school-of-management
+
+name: West Texas A&M University - College of Business
+link: https://www.mba.today/school/west-texas-a-and-m-university
+
+name: University of Houston-Clear Lake - College of Business
+link: https://www.mba.today/school/university-of-houston-clear-lake
+
+name: Stephen F. Austin State University (Rusche)
+link: https://www.mba.today/school/stephen-f-austin-state-university-nelson-rusche-college-of-business
+
+name: Abilene Christian University - College of Business Administration
+link: https://www.mba.today/school/abilene-christian-university
+
+name: UT Permian Basin
+link: https://www.mba.today/school/university-of-texas-of-the-permian-basin
+
+name: University of Houston (Bauer)
+link: https://www.mba.today/school/university-of-houston-bauer-college-of-business
+
+name: St. Mary's University (Greehey)
+link: https://www.mba.today/school/st-mary-s-university-greehey-school-of-business
+
+name: UT Tyler
+link: https://www.mba.today/school/university-of-texas-at-tyler
+
+name: University of Dallas (Satish & Yasmin Gupta)
+link: https://www.mba.today/school/university-of-dallas-satish-and-yasmin-gupta-college-of-business
+
+name: Southern Methodist University (Cox)
+link: https://www.mba.today/school/southern-methodist-university
+
+name: UT San Antonio
+link: https://www.mba.today/school/university-of-texas-at-san-antonio
+
+name: Texas Tech University (Rawls)
+link: https://www.mba.today/school/texas-tech-university-rawls-college-of-business
+
+name: UT El Paso
+link: https://www.mba.today/school/university-of-texas-at-el-paso
+
+name: Texas A&M University-Texarkana - College of Business, Engineering and Technology
+link: https://www.mba.today/school/texas-a-and-m-university-texarkana
+
+name: SHSU
+link: https://www.mba.today/school/sam-houston-state-university
+
+name: UT Dallas (Jindal)
+link: https://www.mba.today/school/university-of-texas-at-dallas-naveen-jindal-school-of-business
+
+name: Texas State University (McCoy)
+link: https://www.mba.today/school/texas-state-university-mccoy-college-of-business
+
+name: Rice University (Jones)
+link: https://www.mba.today/school/rice-university-jones-graduate-school-of-business
+
+name: University of Texas at Austin (McCombs)
+link: https://www.mba.today/school/university-of-texas-at-austin-mccombs-school-of-business
+
+name: Texas Southern University (Jesse H. Jones)
+link: https://www.mba.today/school/texas-southern-university-jesse-jones-school-of-business
+
+name: Prairie View A&M University - College of Business
+link: https://www.mba.today/school/prairie-view-a-and-m-university
+
+name: UT Arlington
+link: https://www.mba.today/school/university-of-texas-at-arlington
+
+name: Texas Christian University (Neeley)
+link: https://www.mba.today/school/texas-christian-university-neeley-school-of-business
+
+name: Midwestern State University (Dillard)
+link: https://www.mba.today/school/midwestern-state-university-dillard-college-of-business
+
+name: University of St. Thomas (Cameron School of Business)
+link: https://www.mba.today/school/university-of-st-thomas-houston-cameron-school-of-business
+
+name: University of Texas Rio Grande Valley - Vackar College of Business and Entrepreneurship
+link: https://www.mba.today/school/university-of-texas-rio-grande-valley
+
+name: Texas A&M University-Corpus Christi (TAMUCC) - College of Business
+link: https://www.mba.today/school/texas-a-and-m-university-corpus-christi
+
+name: Texas A&M University-Kingsville
+link: https://www.mba.today/school/texas-a-and-m-university-at-kingsville
+
+name: Lamar University - College of Business
+link: https://www.mba.today/school/lamar-university
+
+name: University of North Texas - Ryan College of Business
+link: https://www.mba.today/school/university-of-north-texas
+
+name: Texas A&M University-Commerce (TAMUC) - College of Business and Entrepreneurship
+link: https://www.mba.today/school/texas-a-and-m-university-commerce
+
+name: Trinity University - School of Business
+link: https://www.mba.today/school/trinity-university
+
+name: Baylor University (Hankamer)
+link: https://www.mba.today/school/baylor-university-hankamer-school-of-business
+
+name: University of Houston-Victoria - School of Business Administration
+link: https://www.mba.today/school/university-of-houston-victoria
+
+name: Texas A&M University (Mays)
+link: https://www.mba.today/school/texas-a-and-m-university-mays-business-school
+
+name: Texas Wesleyan University - School of Business Administration
+link: https://www.mba.today/school/texas-wesleyan-university
+
+name: University of Houston-Downtown - Davies College of Business
+link: https://www.mba.today/school/university-of-houston-downtown
+
+name: Texas A&M International University (A.R. Sanchez, Jr.)
+link: https://www.mba.today/school/tamiu-a-r-sanchez-jr-school-of-business
+
+name: Weber State University (Goddard)
+link: https://www.mba.today/school/weber-state-university-goddard-school-of-business-and-economics
+
+name: Utah Valley University (Woodbury)
+link: https://www.mba.today/school/utah-valley-university-woodbury-school-of-business
+
+name: Utah State University (Huntsman)
+link: https://www.mba.today/school/utah-state-university-huntsman-school-of-business
+
+name: University of Utah (Eccles)
+link: https://www.mba.today/school/university-of-utah-eccles-school-of-business
+
+name: Southern Utah University (Leavitt)
+link: https://www.mba.today/school/southern-utah-university
+
+name: Brigham Young University (Marriott)
+link: https://www.mba.today/school/brigham-young-university-marriott-school-of-management
+
+name: University of Vermont (Grossman)
+link: https://www.mba.today/school/university-of-vermont
+
+name: Washington and Lee University (Williams)
+link: https://www.mba.today/school/washington-and-lee-university
+
+name: Christopher Newport University - Luter School of Business
+link: https://www.mba.today/school/christopher-newport-university
+
+name: James Madison University - College of Business
+link: https://www.mba.today/school/james-madison-university
+
+name: Virginia State University (Lewis)
+link: https://www.mba.today/school/virginia-state-university
+
+name: George Mason University - School of Business
+link: https://www.mba.today/school/george-mason-university
+
+name: Virginia Military Institute
+link: https://www.mba.today/school/virginia-military-institute
+
+name: College of William and Mary (Mason)
+link: https://www.mba.today/school/college-of-william-and-mary-mason-school-of-business
+
+name: Norfolk State University - School of Business
+link: https://www.mba.today/school/norfolk-state-university
+
+name: Virginia Tech (Pamplin)
+link: https://www.mba.today/school/virginia-polytechnic-institute-and-state-university-pamplin-college-of-business
+
+name: Virginia Commonwealth University - School of Business
+link: https://www.mba.today/school/virginia-commonwealth-university
+
+name: University of Mary Washington - College of Business
+link: https://www.mba.today/school/university-of-mary-washington
+
+name: Virginia-Darden
+link: https://www.mba.today/school/darden-school-of-business-university-of-virginia
+
+name: University of Virginia - McIntire School of Commerce
+link: https://www.mba.today/school/university-of-virginia-mcintire
+
+name: University of Richmond (Robins)
+link: https://www.mba.today/school/university-of-richmond-robins-school-of-business
+
+name: Shenandoah University (Harry F. Byrd, Jr.)
+link: https://www.mba.today/school/shenandoah-university-harry-byrd-jr-school-of-business
+
+name: Radford University (David)
+link: https://www.mba.today/school/radford-university
+
+name: Old Dominion University (Strome)
+link: https://www.mba.today/school/old-dominion-university
+
+name: Longwood University - College of Business and Economics
+link: https://www.mba.today/school/longwood-university
+
+name: Pacific Lutheran University - School of Business
+link: https://www.mba.today/school/pacific-lutheran-university
+
+name: Gonzaga University - School of Business Administration
+link: https://www.mba.today/school/gonzaga-university
+
+name: Central Washington University - College of Business
+link: https://www.mba.today/school/central-washington-university
+
+name: Eastern Washington University - College of Business and Public Administration
+link: https://www.mba.today/school/eastern-washington-university
+
+name: Whitworth University - School of Business
+link: https://www.mba.today/school/whitworth-university
+
+name: Western Washington University - College of Business and Economics
+link: https://www.mba.today/school/western-washington-university
+
+name: Washington State University - Carson College of Business
+link: https://www.mba.today/school/washington-state-university
+
+name: University of Washington (Foster)
+link: https://www.mba.today/school/university-of-washington-foster-school-of-business
+
+name: University of Washington Tacoma (Milgard)
+link: https://www.mba.today/school/university-of-washington-tacoma-milgard-school-of-business
+
+name: University of Washington Bothell - School of Business
+link: https://www.mba.today/school/university-of-washington-bothell
+
+name: Seattle University (Albers)
+link: https://www.mba.today/school/seattle-university-albers-school-of-business
+
+name: Seattle Pacific University - School of Business, Government, and Economics
+link: https://www.mba.today/school/seattle-pacific-university
+
+name: West Virginia University (Chambers)
+link: https://www.mba.today/school/west-virginia-university
+
+name: Marshall University (Lewis)
+link: https://www.mba.today/school/marshall-university-lewis-college-of-business
+
+name: University of Wisconsin-Oshkosh - College of Business
+link: https://www.mba.today/school/university-of-wisconsin-oshkosh
+
+name: Marquette University - College of Business Administration & Graduate School of Management
+link: https://www.mba.today/school/marquette-university
+
+name: University of Wisconsin-Whitewater - College of Business and Economics
+link: https://www.mba.today/school/university-of-wisconsin-whitewater
+
+name: University of Wisconsin-River Falls - College of Business and Economics
+link: https://www.mba.today/school/university-of-wisconsin-river-falls
+
+name: University of Wisconsin-Stevens Point - School of Business and Economics
+link: https://www.mba.today/school/university-of-wisconsin-stevens-point
+
+name: University of Wisconsin-Parkside - School of Business and Technology
+link: https://www.mba.today/school/university-of-wisconsin-parkside
+
+name: University of Wisconsin-Milwaukee - Lubar School of Business
+link: https://www.mba.today/school/university-of-wisconsin-milwaukee-sheldon-lubar-school-of-business
+
+name: University of Wisconsin-Madison - Wisconsin School of Business
+link: https://www.mba.today/school/university-of-wisconsin-madison
+
+name: University of Wisconsin-La Crosse - College of Business Administration
+link: https://www.mba.today/school/university-of-wisconsin-la-crosse
+
+name: University of Wisconsin-Eau Claire - College of Business
+link: https://www.mba.today/school/university-of-wisconsin-eau-claire
+
+name: University of Wyoming - College of Business
+link: https://www.mba.today/school/university-of-wyoming
+
