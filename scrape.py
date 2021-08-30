@@ -119,7 +119,7 @@ def print_schools():
 
 def write_schools_to_file(filename, school_text):
     # write schools to file
-    with io.open(filename, "a") as f:
+    with io.open(filename, "a", encoding='utf-8') as f:
         f.write(school_text)
 
 
