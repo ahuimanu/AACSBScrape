@@ -1,10 +1,12 @@
-gitimport io
+import io
 import random
 import time
 
 import requests
 from bs4 import BeautifulSoup
 from bs4 import element
+
+from db import init_db
 
 # mba today prefix
 mba_today_prefix = "https://www.mba.today"
@@ -139,10 +141,13 @@ def main():
     # screen scraping to get AACSB schools
     print("SCRAPING")
 
-    # create
-    make_schools()
+    # init db
+    init_db()
 
-    get_addresses()
+    # create
+    # make_schools()
+
+    # get_addresses()
 
 
 if __name__ == "__main__":
