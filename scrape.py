@@ -71,10 +71,10 @@ def get_addresses():
                 + "\n"
             )
             # status
-            if school != None:
-                print(f"processed: {school.name}")
-            else:
-                print(f"problem: {school}")
+            # if school != None:
+            #     print(f"processed: {school.name}")
+            # else:
+            #     print(f"problem: {school}")
 
             # write output string to file
             write_schools_to_file("aacsb_addresses.txt", school_text)
@@ -98,9 +98,9 @@ def make_schools():
 
     # create urls from school list
     for link in links:
-        print(f"link string: {link.string}")
+        print(f"Making:\n{link.string}")
         school = School(link.string, f"{mba_today_prefix}{link['href']}")
-        print(f"showing school:\n {school}")
+        print(f"Finished Making:\n{school}")
         schools_list.append(school)
 
 
