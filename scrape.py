@@ -6,7 +6,7 @@ import requests
 from bs4 import BeautifulSoup
 from bs4 import element
 
-from db import init_db
+from db import init_db, write_school, get_record_from_school_text
 
 # mba today prefix
 mba_today_prefix = "https://www.mba.today"
@@ -65,12 +65,16 @@ def get_addresses():
                 + "\n"
             )
             school_text += parse_address(output)
+            school = get_record_from_school_text(output)
             school_text += (
                 "================================================================================"
                 + "\n"
             )
             # status
-            print(f"processed: {school.name}")
+            if school != None:
+                print(f"processed: {school.name}")
+            else:
+                print(f"problem: {school}")
 
             # write output string to file
             write_schools_to_file("aacsb_addresses.txt", school_text)
@@ -94,7 +98,10 @@ def make_schools():
 
     # create urls from school list
     for link in links:
-        schools_list.append(School(link.string, f"{mba_today_prefix}{link['href']}"))
+        print(f"link string: {link.string}")
+        school = School(link.string, f"{mba_today_prefix}{link['href']}")
+        print(f"showing school:\n {school}")
+        schools_list.append(school)
 
 
 def parse_address(address_text):
@@ -136,6 +143,11 @@ def write_schools_to_textfile():
     f.write(output)
     f.close()
 
+def write_schools_to_db():
+    # write schools to file
+    for school in schools_list:
+        write_school(school)
+
 
 def main():
     # screen scraping to get AACSB schools
@@ -145,9 +157,10 @@ def main():
     init_db()
 
     # create
-    # make_schools()
+    make_schools()
 
-    # get_addresses()
+    # get addresses
+    get_addresses()
 
 
 if __name__ == "__main__":
